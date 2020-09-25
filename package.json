@@ -26,5 +26,6 @@
     "express"
   ],
   "license": "MIT",
-  "author": ""
+  "author": "",
+  "devDependencies": {}
 }
